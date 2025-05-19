@@ -22,10 +22,18 @@ Simulation for a Raspberry Pi system that plays different videos depending on GP
 
 1. **Open a terminal**
 2. **Install VLC media player** using the following command:
+
    sudo snap install vlc
-3. **Navigate to the directory containing the script:**
+   
+4. **Navigate to the directory containing the script:**
+
    cd ~/Your_Directory_Name
-4. **Make sure Python 3 is installed:**
+   
+6. **Make sure Python 3 is installed:**
+
    python3 --version
-5. **Run the Python script:**
+   
+8. **Run the Python script:**
+
    python3 your_script_name.py
+   
