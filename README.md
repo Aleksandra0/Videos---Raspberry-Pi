@@ -18,4 +18,14 @@ Simulation for a Raspberry Pi system that plays different videos depending on GP
 - `subprocess`, `threading`, `time`, `random`
 - (Optional) `RPi.GPIO` for actual Raspberry Pi usage
 
-  
+  ## How to run
+
+1. **Open a terminal**
+2. **Install VLC media player** using the following command:
+   sudo snap install vlc
+3. **Navigate to the directory containing the script:**
+   cd ~/Your_Directory_Name
+4. **Make sure Python 3 is installed:**
+   python3 --version
+5. **Run the Python script:**
+   python3 your_script_name.py
