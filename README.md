@@ -11,7 +11,7 @@ Simulation for a Raspberry Pi system that plays different videos depending on GP
 - Uses VLC player for media playback.
 - Includes a mock GPIO class for testing without hardware.
 
-## Technologies Used
+## Dependencies
 
 - Python 3
 - VLC Media Player (must be installed and available in system path)
