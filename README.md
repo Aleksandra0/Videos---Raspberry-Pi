@@ -25,15 +25,17 @@ Simulation for a Raspberry Pi system that plays different videos depending on GP
 
    sudo snap install vlc
    
-4. **Navigate to the directory containing the script:**
+3. **Navigate to the directory containing the script:**
 
    cd ~/Your_Directory_Name
    
-6. **Make sure Python 3 is installed:**
+4. **Make sure Python 3 is installed:**
 
    python3 --version
    
-8. **Run the Python script:**
+5. **Run the Python script:**
 
    python3 your_script_name.py
+
+6. **Stop the script with Ctrl + C (KeyboardInterrupt).**
    
